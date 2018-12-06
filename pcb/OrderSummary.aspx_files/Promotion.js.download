@@ -1,0 +1,49 @@
+﻿
+//test object
+Rectangle = function(x, y) {
+    this.width = x;
+    this.height = y;
+}
+
+//Print the rectangle
+//var r = new Rectangle
+//window.alert(r.width);
+
+
+
+//Print Document
+function SummaryPrint()
+{
+    window.print();
+}
+
+//Get text/xml data using XMLHttpRequest
+function AJAXGet(url, control, responsetype) {
+    var xhr = null;
+    try {//IE7+, Firefox, Chrome, Opera, Safari          
+        xhr = new XMLHttpRequest();
+    }
+    catch (e) {// code for IE6, IE5
+        xhr = new ActiveXObject("Microsoft.XMLHTTP");
+    }
+    xhr.open("GET", url, true);  //may need to check the sync/async
+    xhr.send(null);
+    if (responsetype == "text") {
+        document.getElementById(control).innerHTML = xhr.responseText;
+    }
+    else {
+        document.getElementById(control).innerHTML = xhr.responseXMl;
+    }
+}
+
+//Display element in document
+function Display(element) {
+    var Input = document.getElementById(element)
+    Input.style.display = "";
+}
+
+//Hide element in document
+function Hide(element) {
+    var Input = document.getElementById(element)
+    Input.style.display = "none";
+}

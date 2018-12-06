@@ -1,0 +1,1220 @@
+/* From 4pcb site. Also used as general guidelines */
+
+.other
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 8pt;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+A:link
+{
+    COLOR: #003399;
+    TEXT-DECORATION: none
+}
+A:visited
+{
+    COLOR: #003399;
+    TEXT-DECORATION: none
+}
+A:active
+{
+    COLOR: #003399;
+    TEXT-DECORATION: none
+}
+A:hover
+{
+    COLOR: #FF0000;
+    TEXT-DECORATION: underline
+}
+.large
+{
+    FONT-SIZE: 18pt;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+FORM
+{
+    MARGIN: 0px
+}
+.pcb_prototype_login
+{
+    FONT-SIZE: 10pt;
+    COLOR: #ffffff;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.prototype_circuit_boards_input
+{
+    BORDER-RIGHT: 2px inset;
+    BORDER-TOP: 2px inset;
+    FONT-SIZE: 11px;
+    BORDER-LEFT: 2px inset;
+    COLOR: black;
+    BORDER-BOTTOM: 2px inset;
+    FONT-FAMILY: 'Microsoft sans serif', sans-serif, Arial, Helvetica;
+    BACKGROUND-COLOR: #f4f4f4;
+    TEXT-DECORATION: none
+}
+/*.prototype_circuit_boards_input
+{
+    BORDER-RIGHT: 1px;
+    BORDER-TOP: 1px;
+    FONT-SIZE: 10px;
+    BORDER-LEFT: 1px;
+    COLOR: black;
+    BORDER-BOTTOM: 1px;
+    FONT-FAMILY: 'Microsoft sans serif', sans-serif, Arial, Helvetica;
+    BACKGROUND-COLOR: #f4f4f4;
+    TEXT-DECORATION: none
+}*/
+.prototype_circuit_boards_input2
+{
+    BORDER-RIGHT: 2px inset;
+    BORDER-TOP: 2px inset;
+    FONT-SIZE: 11px;
+    BORDER-LEFT: 2px inset;
+    COLOR: black;
+    BORDER-BOTTOM: 2px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    BACKGROUND-COLOR: #f4f4f4;
+    TEXT-DECORATION: none
+}
+.prototype_circuit_boards_input3
+{
+    BORDER-RIGHT: 2px inset;
+    BORDER-TOP: 2px inset;
+    FONT-SIZE: 11px;
+    BORDER-LEFT: 2px inset;
+    WIDTH: 130px;
+    COLOR: black;
+    BORDER-BOTTOM: 2px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    BACKGROUND-COLOR: #f4f4f4;
+    TEXT-DECORATION: none
+}
+.pcb_manufacturer_loginsmall
+{
+	FONT-SIZE: 8pt;
+    COLOR: #ffffff;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.printed_circuit_form
+{
+    BORDER-RIGHT: 1px inset;
+    BORDER-TOP: 1px inset;
+    FONT-SIZE: 10px;
+    BORDER-LEFT: 1px inset;
+    COLOR: black;
+    BORDER-BOTTOM: 1px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    BACKGROUND-COLOR: #f4f4f4;
+    TEXT-DECORATION: none
+}
+.assembly_input2
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 11pt;
+    COLOR: black;
+    FONT-FAMILY: 'Microsoft Sans Serif', helvetica, Arial, sans-serif
+}
+.fast_cheap_circuit_boards_blue
+{
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.fabrication_normal
+{
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.electronic_circuits_button
+{
+    BORDER-RIGHT: 1px outset;
+    BORDER-TOP: 1px outset;
+    FONT-SIZE: 10px;
+    BORDER-LEFT: 1px outset;
+    COLOR: black;
+    BORDER-BOTTOM: 1px outset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.easy_pcb_normal7
+{
+    FONT-SIZE: 7pt;
+    COLOR: black;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.circuit_board_design_bluebig
+{
+    FONT-SIZE: 18pt;
+    COLOR: #0066CC;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.pcb_equipment_small
+{
+    FONT-SIZE: 8pt;
+    COLOR: #ffffff;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.pcb_supply_small2
+{
+    FONT-SIZE: 11pt;
+    COLOR: black;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvertics;
+    TEXT-DECORATION: none
+}
+.pcb_prototype_small_black
+{
+    FONT-SIZE: 9pt;
+    COLOR: black;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.pcb_maker_normal2
+{
+    FONT-SIZE: 12pt;
+    COLOR: #0066CC;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+H3.production_electronic_circuit_boards_quality_H3
+{
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica
+}
+.fabrication_normal2
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.circuit_board_design_bluebig2
+{
+    FONT-SIZE: 11pt;
+    COLOR: #0066CC;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.production_electronic_circuit_boards_quality_big
+{
+    FONT-SIZE: 14pt;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.fabrication_normal3
+{
+    FONT-SIZE: 12pt;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.fabrication_normal4
+{
+    FONT-SIZE: 10pt;
+    COLOR: red;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.printed_circuit_form2
+{
+    BORDER-RIGHT: 1px inset;
+    BORDER-TOP: 1px inset;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: 1px inset;
+    BORDER-BOTTOM: 1px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    BACKGROUND-COLOR: #f4f4f4;
+    TEXT-DECORATION: none
+}
+.electronic_circuits_button2
+{
+    BORDER-RIGHT: 1px outset;
+    BORDER-TOP: 1px outset;
+    FONT-SIZE: 8pt;
+    BORDER-LEFT: 1px outset;
+    WIDTH: 105px;
+    COLOR: black;
+    BORDER-BOTTOM: 1px outset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.electronic_circuits_button3
+{
+    BORDER-RIGHT: 2px outset;
+    BORDER-TOP: 2px outset;
+    FONT-SIZE: 8pt;
+    BORDER-LEFT: 2px outset;
+    WIDTH: 70px;
+    COLOR: black;
+    BORDER-BOTTOM: 2px outset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.printed_circuit_form3
+{
+    BORDER-RIGHT: 2px inset;
+    BORDER-TOP: 2px inset;
+    FONT-SIZE: 8pt;
+    BORDER-LEFT: 2px inset;
+    BORDER-BOTTOM: 2px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    BACKGROUND-COLOR: #f4f4f4;
+    TEXT-DECORATION: none
+}
+.printed_circuit_form4
+{
+    BORDER-RIGHT: 2px inset;
+    BORDER-TOP: 2px inset;
+    FONT-SIZE: 8pt;
+    BORDER-LEFT: 2px inset;
+    WIDTH: 60pt;
+    BORDER-BOTTOM: 2px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    HEIGHT: 60pt;
+    BACKGROUND-COLOR: #f4f4f4;
+    TEXT-DECORATION: none
+}
+.printed_circuit_form5
+{
+    BORDER-RIGHT: 2px inset;
+    BORDER-TOP: 2px inset;
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 8pt;
+    BORDER-LEFT: 2px inset;
+    WIDTH: 60pt;
+    COLOR: white;
+    BORDER-BOTTOM: 2px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    HEIGHT: 60pt;
+    BACKGROUND-COLOR: #bd0303;
+    TEXT-DECORATION: none
+}
+.fabrication_normal5
+{
+    FONT-SIZE: 8pt;
+    COLOR: red;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.fabrication_normal6
+{
+    FONT-SIZE: 8pt;
+    COLOR: red;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.electronic_circuits_button4
+{
+    BORDER-RIGHT: 1px outset;
+    BORDER-TOP: 1px outset;
+    FONT-SIZE: 8pt;
+    BORDER-LEFT: 1px outset;
+    WIDTH: 180px;
+    COLOR: black;
+    BORDER-BOTTOM: 1px outset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica
+}
+.fabrication_normal7
+{
+    FONT-SIZE: 12pt;
+    COLOR: white;
+    FONT-FAMILY: 'Microsoft Sans Serif', san-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.pcb_options_border
+{
+    BORDER-RIGHT: #3391c8 inset;
+    PADDING-RIGHT: 0px;
+    BORDER-TOP: #3391c8 inset;
+    MARGIN: 3px 1px 1px 3px;
+    BORDER-LEFT: #3391c8 inset;
+    BORDER-BOTTOM: #3391c8 inset;
+    BACKGROUND-COLOR: black
+}
+.fabrication_normal8
+{
+    FONT-SIZE: 10pt;
+    COLOR: white;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.fabrication_normal9
+{
+    FONT-SIZE: 8pt;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.fabrication_normal10
+{
+    FONT-SIZE: 24pt;
+    COLOR: red;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.electronic_circuits_button5
+{
+    BORDER-RIGHT: outset;
+    BORDER-TOP: outset;
+    FONT-SIZE: 8pt;
+    BORDER-LEFT: outset;
+    WIDTH: 95px;
+    BORDER-BOTTOM: outset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    HEIGHT: 25px;
+    TEXT-DECORATION: none
+}
+.fabrication_normal11
+{
+    FONT-SIZE: 8pt;
+    COLOR: white;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.packing_list
+{
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: 'Times New Roman'
+}
+.packing_list2
+{
+    FONT-SIZE: 12pt;
+    FONT-FAMILY: 'Times New Roman'
+}
+.invoice_white_10
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 10pt;
+    COLOR: white;
+    FONT-FAMILY: Arial;
+    TEXT-DECORATION: none
+}
+.invoice_12
+{
+    FONT-SIZE: 12pt;
+    COLOR: black;
+    FONT-FAMILY: 'Times New Roman';
+    TEXT-DECORATION: none
+}
+.invoice_red_12
+{
+    FONT-SIZE: 12pt;
+    COLOR: red;
+    FONT-FAMILY: Arial;
+    TEXT-DECORATION: none
+}
+.invoice_red_8
+{
+    FONT-SIZE: 8pt;
+    COLOR: red;
+    FONT-FAMILY: Arial;
+    TEXT-DECORATION: none
+}
+.invoice_red_26
+{
+    FONT-SIZE: 26pt;
+    COLOR: red;
+    FONT-FAMILY: Arial;
+    TEXT-DECORATION: none
+}
+.invoice_red_16
+{
+    FONT-SIZE: 16pt;
+    COLOR: red;
+    FONT-FAMILY: Arial;
+    TEXT-DECORATION: none
+}
+.fabrication_normal17
+{
+    FONT-SIZE: 10pt;
+    COLOR: white;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.background
+{
+    BACKGROUND-COLOR: #0066CC
+}
+.general
+{
+    FONT-SIZE: 8pt;
+    COLOR: #ffffff;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif;
+    TEXT-DECORATION: none
+}
+.red-bold
+{
+    font-weight: bold;
+    color: Red;
+}
+.promo-red-bold
+{
+    font-weight: bold;
+    color: #C2141D;
+}
+.top
+{
+    BACKGROUND-COLOR: black
+}
+.electronic_circuits_button6
+{
+    BORDER-RIGHT: 1px outset;
+    BORDER-TOP: 1px outset;
+    FONT-SIZE: 8pt;
+    BORDER-LEFT: 1px outset;
+    WIDTH: 30px;
+    BORDER-BOTTOM: 1px outset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.printed_circuit_board_normal7
+{
+    FONT-SIZE: 8pt;
+    COLOR: red;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica
+}
+.general2
+{
+    FONT-SIZE: 7pt;
+    COLOR: #b3b3b3;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.electronic_circuits_button7
+{
+    BORDER-RIGHT: 1px outset;
+    BORDER-TOP: 1px outset;
+    FONT-SIZE: 8pt;
+    BORDER-LEFT: 1px outset;
+    WIDTH: 40px;
+    COLOR: black;
+    BORDER-BOTTOM: 1px outset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.fabrication_normal_hand
+{
+    FONT-SIZE: 8pt;
+    COLOR: #186896;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: underline
+}
+.prototype_circuit_boards_input4
+{
+    BORDER-RIGHT: 2px inset;
+    BORDER-TOP: 2px inset;
+    FONT-SIZE: 8pt;
+    BORDER-LEFT: 2px inset;
+    WIDTH: 80pt;
+    COLOR: black;
+    BORDER-BOTTOM: 2px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    BACKGROUND-COLOR: #f4f4f4;
+    TEXT-DECORATION: none
+}
+.button_link
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FONT-SIZE: 8pt;
+    BORDER-LEFT: medium none;
+    COLOR: #186896;
+    BORDER-BOTTOM: medium none;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    BACKGROUND-COLOR: transparent;
+    TEXT-DECORATION: underline
+}
+.printed_circuit_form6
+{
+    BORDER-RIGHT: 2px inset;
+    BORDER-TOP: 2px inset;
+    FONT-SIZE: 8pt;
+    BORDER-LEFT: 2px inset;
+    WIDTH: 80pt;
+    BORDER-BOTTOM: 2px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    HEIGHT: 60pt;
+    BACKGROUND-COLOR: #f4f4f4
+}
+.fast_cheap_circuit_boards_blue A:hover
+{
+    COLOR: red;
+    TEXT-DECORATION: underline
+}
+.fabrication_normal2 A:hover
+{
+    COLOR: red;
+    TEXT-DECORATION: underline
+}
+.colorScheme
+{
+	background-color: #0066CC;
+}
+
+/* --------------------------------------------------------------------------*/
+/* From 33each site - red.css*/
+
+.prototype_circuit_boards_input_1px
+{
+    BORDER-RIGHT: 1px inset;
+    BORDER-TOP: 1px inset;
+    FONT-SIZE: 10px;
+    BORDER-LEFT: 1px inset;
+    COLOR: black;
+    BORDER-BOTTOM: 1px inset;
+    FONT-FAMILY: 'MS sans serif', sans-serif, Arial, Helvetica;
+    BACKGROUND-COLOR: #f4f4f4;
+    TEXT-DECORATION: none
+}
+.circuit_board_prototype_normal
+{
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.printed_circuit_board_manufacturer_red
+{
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.pcb_prototype_redbig
+{
+    FONT-SIZE: 18pt;
+    COLOR: #c2141d;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.design_form
+{
+    BORDER-RIGHT: 1px inset;
+    BORDER-TOP: 1px inset;
+    FONT-SIZE: 10px;
+    BORDER-LEFT: 1px inset;
+    COLOR: black;
+    BORDER-BOTTOM: 1px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    BACKGROUND-COLOR: #f4f4f4;
+    TEXT-DECORATION: none
+}
+.multilayer_circuit_boards_button
+{
+    BORDER-RIGHT: 1px inset;
+    BORDER-TOP: 1px inset;
+    FONT-SIZE: 10px;
+    BORDER-LEFT: 1px inset;
+    COLOR: black;
+    BORDER-BOTTOM: 1px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.instant_quote_normal7
+{
+    FONT-SIZE: 7pt;
+    COLOR: black;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.layout_small
+{
+    FONT-SIZE: 8pt;
+    COLOR: #ffffff;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+H3.instant_online_pcb_order_quote_quickturn_H3
+{
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica
+}
+.instant_quote_normal
+{
+    FONT-SIZE: 14pt;
+    COLOR: black;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.circuit_board_form
+{    
+    COLOR: black;    
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    BACKGROUND-COLOR: White;
+    TEXT-DECORATION: none;
+    height: 20px;
+    FONT-SIZE: 8pt;
+    margin-left: 0px;
+}
+.instant_quote_normal2
+{
+    FONT-SIZE: 10pt;
+    COLOR: black;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.instant_quote_normal3
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;    
+}
+.instant_quote_normal4
+{
+    FONT-SIZE: 10pt;
+    COLOR: #c2141d;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.instant_quote_normal8
+{
+    FONT-SIZE: 12pt;
+    COLOR: white;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.circuit_board_form2
+{
+    BORDER-RIGHT: 2px inset;
+    BORDER-TOP: 2px inset;
+    FONT-SIZE: 8pt;
+    BORDER-LEFT: 2px inset;
+    WIDTH: 55pt;
+    COLOR: black;
+    BORDER-BOTTOM: 2px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    BACKGROUND-COLOR: #f4f4f4;
+    TEXT-DECORATION: none
+}
+.instant_quote_normal9
+{
+    FONT-SIZE: 14pt;
+    COLOR: black;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.instant_quote_normal10
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.hover
+{
+    CURSOR: default
+}
+.instant_quote_normal11
+{
+    FONT-SIZE: 26pt;
+    COLOR: #c2141d;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.instant_quote_normal12
+{
+    FONT-SIZE: 16pt;
+    COLOR: #c2141d;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.prototype_circuit_boards_input2_red
+{
+    BORDER-RIGHT: 1px inset;
+    BORDER-TOP: 1px inset;
+    FONT-SIZE: 10px;
+    BORDER-LEFT: 1px inset;
+    WIDTH: 80pt;
+    COLOR: black;
+    BORDER-BOTTOM: 1px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    BACKGROUND-COLOR: #f4f4f4;
+    TEXT-DECORATION: none
+}
+.prototype_circuit_boards_input3_red
+{
+    BORDER-RIGHT: 1px inset;
+    BORDER-TOP: 1px inset;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: 1px inset;
+    WIDTH: 20pt;
+    BORDER-BOTTOM: 1px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    BACKGROUND-COLOR: #f4f4f4
+}
+.prototype_circuit_boards_input4_red
+{
+    BORDER-RIGHT: 1px inset;
+    BORDER-TOP: 1px inset;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: 1px inset;
+    WIDTH: 30pt;
+    BORDER-BOTTOM: 1px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    BACKGROUND-COLOR: #f4f4f4
+}
+.instant_quote_normal13
+{
+    FONT-SIZE: 14pt;
+    COLOR: #c2141d;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.instant_quote_normal14
+{
+    FONT-SIZE: 13pt;
+    COLOR: white;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.background_red
+{
+    BACKGROUND-COLOR: #C2141D
+}
+
+/* --------------------------------------------------------------------------*/
+/* From 4pcb site - brown.css*/
+.tooling_prototype_circuit_boards_brown
+{
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.pcb_supply_brownbig
+{
+    FONT-SIZE: 18pt;
+    COLOR: #b36e22;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.pcb_maker_normal
+{
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.solder_low_quantity_normal7
+{
+    FONT-SIZE: 7pt;
+    COLOR: black;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.quality_small
+{
+    FONT-SIZE: 8pt;
+    COLOR: #ffffff;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.circuit_board_parts_button
+{
+    BORDER-RIGHT: 1px inset;
+    BORDER-TOP: 1px inset;
+    FONT-SIZE: 10px;
+    BORDER-LEFT: 1px inset;
+    COLOR: black;
+    BORDER-BOTTOM: 1px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+H3.gerber_design_expert_manufacturer_H3
+{
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica
+}
+.quality_small2
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.pcb_maker_normal3
+{
+    FONT-SIZE: 12pt;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.pcb_maker_normal4
+{
+    FONT-SIZE: 8pt;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+
+/* --------------------------------------------------------------------------*/
+/* From 4pcb site - matrix_blue.css*/
+.board_pcb_manufacturing_normal
+{
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica
+}
+.button2
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FONT-SIZE: 14px;
+    BORDER-LEFT: medium none;
+    CLIP: rect(300px 300px 300px 300px);
+    COLOR: blue;
+    BORDER-BOTTOM: medium none;
+    FONT-FAMILY: 'Microsoft Sans Serif', san-serif, Arial, Helvetica;
+    BACKGROUND-COLOR: transparent;
+    TEXT-DECORATION: underline
+}
+
+/* --------------------------------------------------------------------------*/
+/* From 4pcb site - orange.css*/
+.circuit_board_assembly_orange
+{
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.drill_orangebig
+{
+    FONT-SIZE: 18pt;
+    COLOR: #f87b00;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.printed_circuit_board_fabrication_button
+{
+    BORDER-RIGHT: 1px inset;
+    BORDER-TOP: 1px inset;
+    FONT-SIZE: 10px;
+    BORDER-LEFT: 1px inset;
+    COLOR: black;
+    BORDER-BOTTOM: 1px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.circuit_board_normal7
+{
+    FONT-SIZE: 7pt;
+    COLOR: black;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.pcb_assembly_normal
+{
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.proto_pcb_small
+{
+    FONT-SIZE: 8pt;
+    COLOR: #ffffff;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.pcb_assembly_normal2
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.pcb_assembly_normal3
+{
+    FONT-SIZE: 10pt;
+    COLOR: black;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+H3.multi_layer_printed_circuit_boards_fast_H3
+{
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica
+}
+
+/* --------------------------------------------------------------------------*/
+/* From FreeDFM site - yellow.css*/
+/*.prototype_circuit_boards_input_DFM
+{
+    BORDER-RIGHT: 2px inset;
+    BORDER-TOP: 2px inset;
+    FONT-SIZE: 11px;
+    BORDER-LEFT: 2px inset;
+    COLOR: white;
+    BORDER-BOTTOM: 2px inset;
+    FONT-FAMILY: 'MS sans serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}*/
+.prototype_circuit_boards_input2_DFM
+{
+    BORDER-RIGHT: 2px inset;
+    BORDER-TOP: 2px inset;
+    FONT-SIZE: 8pt;
+    BORDER-LEFT: 2px inset;
+    COLOR: black;
+    BORDER-BOTTOM: 2px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+/*.prototype_circuit_boards_input3_DFM
+{
+    BORDER-RIGHT: 2px inset;
+    BORDER-TOP: 2px inset;
+    FONT-SIZE: 10px;
+    BORDER-LEFT: 2px inset;
+    BORDER-BOTTOM: 2px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    BACKGROUND-COLOR: #f4f4f4;
+    TEXT-DECORATION: none
+}*/
+.printed_circuit_form_DFM
+{
+    BORDER-RIGHT: 2px inset;
+    BORDER-TOP: 2px inset;
+    FONT-SIZE: 10px;
+    BORDER-LEFT: 2px inset;
+    COLOR: black;
+    BORDER-BOTTOM: 2px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    BACKGROUND-COLOR: #f4f4f4;
+    TEXT-DECORATION: none
+}
+.printed_circuit_form2_DFM
+{
+    BORDER-RIGHT: 2px inset;
+    BORDER-TOP: 2px inset;
+    FONT-SIZE: 8pt;
+    BORDER-LEFT: 2px inset;
+    WIDTH: 165pt;
+    COLOR: black;
+    BORDER-BOTTOM: 2px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    BACKGROUND-COLOR: #f4f4f4;
+    TEXT-DECORATION: none
+}
+.printed_circuit_form3_DFM
+{
+    BORDER-RIGHT: 2px inset;
+    BORDER-TOP: 2px inset;
+    FONT-SIZE: 8pt;
+    BORDER-LEFT: 2px inset;
+    BORDER-BOTTOM: 2px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.printed_circuit_form4_DFM
+{
+    BORDER-RIGHT: 2px inset;
+    BORDER-TOP: 2px inset;
+    FONT-SIZE: 12px;
+    BORDER-LEFT: 2px inset;
+    BORDER-BOTTOM: 2px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    BACKGROUND-COLOR: #f4f4f4;
+    TEXT-DECORATION: none
+}
+.assembly_input2_DFM
+{
+    BORDER-RIGHT: 2px inset;
+    BORDER-TOP: 2px inset;
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 11pt;
+    BORDER-LEFT: 2px inset;
+    COLOR: black;
+    BORDER-BOTTOM: 2px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', helvetica, Arial, sans-serif
+}
+.fabricator_files_gerber_yellow
+{
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.pcb_manufacturing_normal
+{
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.pcb_manufacturing_normal2
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.pcb_manufacturing_normal3
+{
+    FONT-SIZE: 8pt;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.pcb_manufacturing_normal4
+{
+    FONT-SIZE: 10pt;
+    COLOR: red;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.pcb_manufacturing_normal5
+{
+    FONT-SIZE: 8pt;
+    COLOR: red;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.pcb_manufacturing_normal6
+{
+    FONT-SIZE: 8pt;
+    COLOR: red;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.pcb_manufacturing_normal7
+{
+    FONT-SIZE: 12pt;
+    COLOR: black;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.pcb_manufacturing_normal8
+{
+    FONT-SIZE: 14pt;
+    COLOR: red;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.cheapest_pcb_yellowbig
+{
+    FONT-SIZE: 18pt;
+    COLOR: black;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.printed_circuit_manufacturer_button
+{
+    BORDER-RIGHT: 1px inset;
+    BORDER-TOP: 1px inset;
+    FONT-SIZE: 10px;
+    BORDER-LEFT: 1px inset;
+    COLOR: black;
+    BORDER-BOTTOM: 1px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.printed_circuit_manufacturer_button2
+{
+    BORDER-RIGHT: 1px inset;
+    BORDER-TOP: 1px inset;
+    FONT-SIZE: 8pt;
+    BORDER-LEFT: 1px inset;
+    WIDTH: 105px;
+    COLOR: black;
+    BORDER-BOTTOM: 1px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+.printed_circuit_manufacturer_button4
+{
+    BORDER-RIGHT: 1px inset;
+    BORDER-TOP: 1px inset;
+    FONT-SIZE: 8pt;
+    BORDER-LEFT: 1px inset;
+    WIDTH: 80px;
+    COLOR: black;
+    BORDER-BOTTOM: 1px inset;
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;
+    TEXT-DECORATION: none
+}
+H3.small_batch_pcb_quickturn_quality_H3
+{
+    FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica
+}
+.assembly_table_borders
+{
+	BORDER-STYLE: solid;
+	BORDER-WIDTH: Thin;
+	BORDER-COLOR: #000000; 
+	text-align:center;
+}
+
+.tdFileName
+{
+	width: 221px;
+	FONT-SIZE: 8pt;    
+FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;    
+}
+
+.tdFileType
+{
+	width: 240px;
+	FONT-SIZE: 8pt;    
+	FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;    
+}
+
+.tdInnerCopper
+{
+	width: 80px;
+	FONT-SIZE: 8pt;    
+	FONT-FAMILY: 'Microsoft Sans Serif', sans-serif, Arial, Helvetica;    
+}
+
+.FileTypeDropDown
+{
+	width: 145px;
+	font-size: 8pt;
+	height: 20px;
+}
+
+.HeaderCenteredArial
+{
+	text-align:center;
+	font-family:Arial;
+}
+
+.CenteredHeader
+{
+ text-align:center;
+  vertical-align:middle;
+  width: 100%; 	
+}
+
+.td100Percent
+{
+   width: 100%; 	
+}
+
+.tableTypical667
+{
+ text-align:center;
+ border-collapse:collapse;
+ width: 667px;	
+}
+
+.tableTypical100Percent
+{
+ text-align:center;
+ border-collapse:collapse;
+ width: 100%;	
+}
+
+.tableTypical100PercentWithBorder
+{
+ text-align:center;
+ border-width:thin;
+ border-color: Black; 
+ width: 100%;	
+}
+
+
+.tableTypicalLeft667
+{
+ text-align:left;
+ border-collapse:collapse;
+ width: 667px;	
+}
+
+.tableTypicalLeft100Percent
+{
+ text-align:left;
+ border-collapse:collapse;
+ width: 100%;	
+}

@@ -1,0 +1,18 @@
+* ALD ALD1101 (NMOS) and ALD 1102 (NMOS) model
+* This model was extracted from measurements.
+* The model is correct only for W = 1738 um and L = 1 um.
+* The device size above doesn't represent the actual device size.
+
+* NMOS hand analysis values: Vtn = 0.71 V; UnCox(W/L) = 4.5 mA/V^2 ; VA = 80 V;
+.MODEL ALD1101 NMOS (LEVEL = 2 UO = 12.72 VTO = 0.6766 NFS = 1.154E12 
++ TOX = 1E-08 NSUB = 3.892E17 UCRIT = 4.582E05 UEXP = 0.07025 VMAX = 6363 
++ RS = 9.491 RD = 5.659 XJ = 4.787E-09 LD = 0 DELTA = 1E-12 NEFF = 0.8345 
++ NSS = -3.801 CGSO = 1.15E-9 CGDO = 1.15E-9 CGBO = 0 CBD = 0 CBS = 0 CJ = 0 
++ MJ = 0.5  CJSW = 0 MJSW = 0.6057 IS = 1.0E-14 PB = 0.8 FC = 0.5 NEFF=5)
+
+* PMOS hand analysis values: Vtn = -0.65 V; UpCox(W/L) = 2.10 mA/V^2 ; VA = -19 V;
+.MODEL ALD1102 PMOS (LEVEL = 2 UO = 5.536 VTO = -0.6093 NFS = 3.602E12 
++ TOX = 1E-08 NSUB = 4.046E16 UCRIT = 8.118E04 UEXP = 0.1647 VMAX = 1399 
++ RS = 9.249 RD = 38.77 XJ = 4.443E-09 LD = 0 DELTA = 8828 NEFF = 2.145 
++ NSS = -8.793 CGSO = 1.15E-9 CGDO = 1.15E-9 CGBO = 0 CBD = 0 CBS = 0 CJ = 0 
++ MJ = 0.5 CJSW = 0 MJSW = 0.33 IS = 1E-14 PB = 0.8 FC = 0.5)

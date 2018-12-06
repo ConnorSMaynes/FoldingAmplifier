@@ -1,0 +1,73 @@
+Circuit: * C:\Users\conno\OneDrive\Desktop\git\folding_amplifier\sim\ideal\folding_amplifier_ideal.asc
+
+Model "ald1101": Oxide thickness thinner than recommended for a level 2 MOSFET.
+Instance "m19": Length shorter than recommended for a level 2 MOSFET.
+Instance "m3": Length shorter than recommended for a level 2 MOSFET.
+Instance "m18": Length shorter than recommended for a level 2 MOSFET.
+Instance "m15": Length shorter than recommended for a level 2 MOSFET.
+Instance "m14": Length shorter than recommended for a level 2 MOSFET.
+Instance "m12": Length shorter than recommended for a level 2 MOSFET.
+Instance "m11": Length shorter than recommended for a level 2 MOSFET.
+Instance "m9": Length shorter than recommended for a level 2 MOSFET.
+Instance "m8": Length shorter than recommended for a level 2 MOSFET.
+Instance "m6": Length shorter than recommended for a level 2 MOSFET.
+Instance "m5": Length shorter than recommended for a level 2 MOSFET.
+Instance "m2": Length shorter than recommended for a level 2 MOSFET.
+Instance "m1": Length shorter than recommended for a level 2 MOSFET.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Gmin = 100
+Gmin = 10.7374
+vernier = 0.5
+vernier = 0.25
+Gmin = 2.2518
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source Step = 93.9542%
+Source Step = 93.9838%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source Step = 100%
+Source Step = 99.0089%
+Source stepping failed
+
+Pseudo Transient succeeded in finding the operating point at 984.682 ms.
+
+Date: Wed Nov 28 02:25:43 2018
+Total elapsed time: 5.476 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 18536
+traniter = 5822
+tranpoints = 1817
+accept = 1567
+rejected = 268
+matrix size = 166
+fillins = 274
+solver = Normal
+Thread vector: 32.5/24.9[2] 6.0/4.2[2] 8.1/6.0[2] 1.8/3.5[1]  2592/500
+Matrix Compiler1: 24.68 KB object code size  10.7/4.4/[2.1]
+Matrix Compiler2: 20.03 KB object code size  5.4/6.8/[2.6]
+
